@@ -188,5 +188,3 @@ console.log(`Person: ${Person.intances}`);
 console.log(`Student: ${Student.intances}`);
 console.log(`Employee: ${Employee.intances}`);
 console.log(`Manager: ${Manager.intances}`);
-
-//счетчик также считает объекты , которые создались классом наследующим родительский , еще не придумал как исправить 
